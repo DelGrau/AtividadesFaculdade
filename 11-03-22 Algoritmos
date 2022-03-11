@@ -1,0 +1,38 @@
+1-
+
+Inicio
+	Pegue uma Escada e uma Lampada nova
+	Abra a Escada
+		Coloque a Escada debaixo da Lampada Queimada
+		Pegue a Lampada nova
+		Suba na Escada
+			Retire a Lampada Queimada
+			Coloque a Lampada nova
+			Desça da Escada
+		Feche a Escada
+	Descarte a Lampada Queimada
+
+Final
+
+2-
+
+Inicio
+
+	int numero,dobro
+	leia (numero)
+	dobro = numero * 2
+	escreva (dobro)
+
+Final
+
+3-
+
+Inicio
+
+	int numero1, numero2, resultado
+	leia (numero1)
+	leia (numero2)
+	resultado = numero1 * numero2
+	escreva (resutado)
+
+Final
